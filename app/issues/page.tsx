@@ -1,3 +1,7 @@
-export default function Home() {
-  return <div>Issue Page</div>;
-}
+import React from "react";
+
+const IssuesPage = () => {
+  return <div>Issues Page</div>;
+};
+
+export default IssuesPage;
